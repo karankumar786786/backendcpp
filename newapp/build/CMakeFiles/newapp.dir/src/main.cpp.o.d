@@ -1475,4 +1475,6 @@ CMakeFiles/newapp.dir/src/main.cpp.o: \
   /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/ordered_map.hpp \
   /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/macro_unscope.hpp \
   /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-  /Users/Karan/Desktop/Coding/cpp/newapp/src/utils/dotenv/dotenv.h
+  /Users/Karan/Desktop/Coding/cpp/newapp/src/utils/dotenv/dotenv.h \
+  /Users/Karan/Desktop/Coding/cpp/newapp/src/controllers/user_controller.h \
+  /Users/Karan/Desktop/Coding/cpp/newapp/src/controllers/../models/user.h

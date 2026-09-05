@@ -2,6 +2,7 @@
 #include "controllers/greet.h"
 #include "utils/dotenv/dotenv.h"
 #include <cstdlib>
+#include "controllers/user_controller.h"
 
 
 int main() {
@@ -26,6 +27,11 @@ int main() {
     ([](std::string name){
         nlohmann::json result = greetJson(name);
         return crow::response(result.dump());
+    });
+
+    CROW_ROUTE(app, "/api/users").methods("POST"_method)
+    ([](const crow::request& req){
+        return UserController::createUser(req);
     });
 
     app.port(port).multithreaded().run();
