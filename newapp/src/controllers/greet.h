@@ -1,5 +1,8 @@
 #pragma once
-
 #include <string>
+#include <nlohmann/json.hpp>
+using namespace std;
+using namespace nlohmann;
 
-std::string greet(std::string name);
+string greet(std::string name);
+json greetJson(std::string name);

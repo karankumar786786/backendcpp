@@ -1428,4 +1428,51 @@ CMakeFiles/newapp.dir/src/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__stop_token/intrusive_list_view.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__stop_token/stop_token.h \
   /Users/Karan/Desktop/Coding/cpp/newapp/src/controllers/greet.h \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/json.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/adl_serializer.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/abi_macros.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/conversions/from_json.hpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/valarray \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/exceptions.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/value_t.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/macro_scope.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/meta/detected.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/meta/void_t.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/thirdparty/hedley/hedley.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/string_escape.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/input/position_t.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/meta/cpp_future.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/meta/type_traits.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/iterators/iterator_traits.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/meta/call_std/begin.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/meta/call_std/end.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/json_fwd.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/string_concat.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/meta/identity_tag.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/meta/std_fs.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/conversions/to_json.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/iterators/iteration_proxy.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/string_utils.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/byte_container_with_subtype.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/hash.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/input/binary_reader.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/input/input_adapters.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/input/json_sax.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/input/lexer.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/meta/is_sax.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/input/parser.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/iterators/internal_iterator.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/iterators/primitive_iterator.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/iterators/iter_impl.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/iterators/json_reverse_iterator.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/json_custom_base_class.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/json_pointer.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/json_ref.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/output/binary_writer.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/output/output_adapters.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/output/serializer.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/conversions/to_chars.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/ordered_map.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/detail/macro_unscope.hpp \
+  /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
   /Users/Karan/Desktop/Coding/cpp/newapp/src/utils/dotenv/dotenv.h
