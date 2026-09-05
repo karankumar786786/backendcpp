@@ -1,0 +1,16 @@
+Detecting compiler hash for triplet arm64-osx...
+Compiler found: /usr/bin/c++
+The following packages are already installed:
+    fmt:arm64-osx@12.2.0#1
+  * vcpkg-cmake:arm64-osx@2025-08-07
+  * vcpkg-cmake-config:arm64-osx@2026-07-21
+The package fmt provides CMake targets:
+
+    find_package(fmt CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE fmt::fmt)
+
+    # Or use the header-only version
+    find_package(fmt CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE fmt::fmt-header-only)
+
+All requested installations completed successfully in: 86.2 us

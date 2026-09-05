@@ -1,0 +1,3 @@
+/Users/Karan/Desktop/Coding/cpp/myapp/build/CMakeFiles/myapp.dir
+/Users/Karan/Desktop/Coding/cpp/myapp/build/CMakeFiles/edit_cache.dir
+/Users/Karan/Desktop/Coding/cpp/myapp/build/CMakeFiles/rebuild_cache.dir

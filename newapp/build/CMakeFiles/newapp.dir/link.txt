@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/newapp.dir/src/main.cpp.o CMakeFiles/newapp.dir/src/controllers/greet.cpp.o CMakeFiles/newapp.dir/src/utils/dotenv/dotenv.cpp.o -o newapp  vcpkg_installed/arm64-osx/debug/lib/libfmtd.a

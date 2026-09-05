@@ -1,0 +1,52 @@
+Package: vcpkg-cmake-config
+Version: 2026-07-21
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: e7e929f89b931dda7ce74d951ebe06a154035d3fd21c5a276913e33089be1601
+Status: install ok installed
+
+Package: vcpkg-cmake
+Version: 2025-08-07
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: b87df762701305b21d11174ad9696555edd1d4731feab071f72c54785ec3e5d9
+Status: install ok installed
+
+Package: fmt
+Version: 12.2.0
+Port-Version: 1
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: a257d3d9888d006f3c8ab23b46b393373d7dbc5e047c13cad613bba92a1be0db
+Description: {fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams.
+Status: install ok installed
+
+Package: nlohmann-json
+Version: 3.12.0
+Port-Version: 2
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: 3526f04fabd040b41b2f89ed0371f1f1290a189abb996bf0255e844c71d0d68d
+Description: JSON for Modern C++
+Status: install ok installed
+
+Package: asio
+Version: 1.32.0
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: fb7fe20c13a0aac12c1f8d98a980f289c94e686bb7cad9e77d93a08bb294eed5
+Description: Asio is a cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach.
+Status: install ok installed
+
+Package: crow
+Version: 1.3.3
+Depends: asio, vcpkg-cmake, vcpkg-cmake-config
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: bec75e6a3c73675c252623df73deba355adcd992208573e3461c2328d68fa375
+Description: Very fast and easy to use C++ micro web framework
+Status: install ok installed
+

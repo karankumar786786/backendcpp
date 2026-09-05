@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/Karan/Desktop/Coding/cpp/myapp/build",
+  "command": "/usr/bin/c++  -isystem /Users/Karan/Desktop/Coding/cpp/myapp/build/vcpkg_installed/arm64-osx/include -std=gnu++17 -arch arm64 -o CMakeFiles/myapp.dir/main.cpp.o -c /Users/Karan/Desktop/Coding/cpp/myapp/main.cpp",
+  "file": "/Users/Karan/Desktop/Coding/cpp/myapp/main.cpp",
+  "output": "CMakeFiles/myapp.dir/main.cpp.o"
+}
+]

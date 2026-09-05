@@ -1,0 +1,19 @@
+{
+  "packages": [
+{
+  "SPDXID" : "SPDXRef-resource-0",
+  "checksums" : 
+  [
+    {
+      "algorithm" : "SHA512",
+      "checksumValue" : "c270425953d84c5f01d884df32b154d9b9794e3611137522e8b80d28739b3f71b3b1f3974c1b039277c87e369c99178ff301eaa141026840a9d62553d4fee078"
+    }
+  ],
+  "copyrightText" : "NOASSERTION",
+  "downloadLocation" : "git+https://github.com/CrowCpp/crow@v1.3.3",
+  "licenseConcluded" : "NOASSERTION",
+  "licenseDeclared" : "NOASSERTION",
+  "name" : "CrowCpp/crow"
+}
+  ]
+}

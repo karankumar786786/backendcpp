@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/Karan/Desktop/Coding/cpp/newapp/build",
+  "command": "/usr/bin/c++ -DASIO_NO_DEPRECATED -isystem /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include -std=gnu++17 -arch arm64 -o CMakeFiles/newapp.dir/src/main.cpp.o -c /Users/Karan/Desktop/Coding/cpp/newapp/src/main.cpp",
+  "file": "/Users/Karan/Desktop/Coding/cpp/newapp/src/main.cpp",
+  "output": "CMakeFiles/newapp.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/Karan/Desktop/Coding/cpp/newapp/build",
+  "command": "/usr/bin/c++ -DASIO_NO_DEPRECATED -isystem /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include -std=gnu++17 -arch arm64 -o CMakeFiles/newapp.dir/src/controllers/greet.cpp.o -c /Users/Karan/Desktop/Coding/cpp/newapp/src/controllers/greet.cpp",
+  "file": "/Users/Karan/Desktop/Coding/cpp/newapp/src/controllers/greet.cpp",
+  "output": "CMakeFiles/newapp.dir/src/controllers/greet.cpp.o"
+},
+{
+  "directory": "/Users/Karan/Desktop/Coding/cpp/newapp/build",
+  "command": "/usr/bin/c++ -DASIO_NO_DEPRECATED -isystem /Users/Karan/Desktop/Coding/cpp/newapp/build/vcpkg_installed/arm64-osx/include -std=gnu++17 -arch arm64 -o CMakeFiles/newapp.dir/src/utils/dotenv/dotenv.cpp.o -c /Users/Karan/Desktop/Coding/cpp/newapp/src/utils/dotenv/dotenv.cpp",
+  "file": "/Users/Karan/Desktop/Coding/cpp/newapp/src/utils/dotenv/dotenv.cpp",
+  "output": "CMakeFiles/newapp.dir/src/utils/dotenv/dotenv.cpp.o"
+}
+]

@@ -1,0 +1,7 @@
+{
+  "dependencies": [
+    "crow",
+    "fmt",
+    "nlohmann-json"
+  ]
+}
